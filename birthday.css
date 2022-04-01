@@ -1,0 +1,33 @@
+	div{
+				width: 100%;
+				text-align: center;
+				padding-top: 25px;
+				font-family: initial;
+			}
+			table>tr>th,td{
+				width: 50%;;
+			}
+			input{
+				width: 250px;
+				height: 25px;
+			}
+			button{
+				background-color: #d4ebf2;
+				border: solid whitesmoke; 
+				height: 30px;
+			}
+			table{
+				text-align: center; width: 70%; margin-left: auto; margin-right: auto;
+			}
+			table.even tr:nth-child(2n+2){
+				background: #e8f4f8;
+			}
+			.div-birthday{
+				height: 150px; background-color: #0096FF; color: #fff; font-size: xx-large; 
+			}
+			.div-form{
+				height: 100px;
+			}
+			.div-table{
+				font-size: large;
+			}
